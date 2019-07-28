@@ -1,6 +1,6 @@
 /* 
 TicTacToe (Human vs Human)
-authon: Ahmet Ataşoğlu
+author: Ahmet Ataşoğlu
 */
 const DIAMETER = 100;
 const SCL = 0.8;
