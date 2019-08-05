@@ -17,6 +17,7 @@ let count = 9;
 
 let player = 'X';
 let nextPlayer = 'O';
+let winner;
 let info;
 
 
